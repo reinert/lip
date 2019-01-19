@@ -1,0 +1,13 @@
+{
+  "name": "financial-server",
+  "version": "1.0.0",
+  "description": "LIP Financial Service",
+  "main": "app/index.js",
+  "author": "Danilo Reinert",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pg": "^7.8.0"
+  }
+}

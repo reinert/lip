@@ -1,0 +1,11 @@
+{
+  "name": "auth-server",
+  "version": "1.0.0",
+  "description": "LIP Authentication Service",
+  "main": "app/index.js",
+  "author": "Danilo Reinert",
+  "license": "MIT",
+  "dependencies": {
+    "node-auth-server": "^0.0.4"
+  }
+}
